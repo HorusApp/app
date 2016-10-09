@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">HorusApp</string>
+    <string name="enter">Entrar</string>
+    <string name="password">Senha</string>
+    <string name="user">Usuário</string>
+    <string name="create_new_account">Criar nova conta</string>
+    <string name="email">Email</string>
+    <string name="name">Nome</string>
+    <string name="signup">Cadastrar</string>
+    <string name="cant_be_blank">Campo obrigatório</string>
+    <string name="loading">Carrengando…</string>
+    <string name="login_invalid">Usuário ou senha inválidos!</string>
+    <string name="signup_error">Não foi possível cadastrar este usuário, tente um email diferente.</string>
+    <string name="error_uploading_video">Error fazendo Upload de Vídeo!</string>
+    <string name="video_uploaded">Video Uploaded com sucesso!</string>
+    <string name="uploading_video">Fazendo Upload dos Videos locais. Aguarde...</string>
+    <string name="video_title">Video Title</string>
+    <string name="location">Sua localização</string>
+</resources>
